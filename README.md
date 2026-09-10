@@ -1,4 +1,4 @@
-Repository moved to [codeberg.org/randogoth/sigilizer.git](https://codeberg.org/randogoth/sigilizer.git)
+Repository moved to [code.randogoth.com/randogoth/sigilizer.git](https://code.randogoth.com/randogoth/sigilizer.git)
 
 # Planetary Sigilizer
 
